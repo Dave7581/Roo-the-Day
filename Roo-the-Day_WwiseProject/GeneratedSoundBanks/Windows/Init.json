@@ -10,11 +10,16 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
+<<<<<<< Updated upstream
     "Hash": "{142B2496-FDD8-852D-54B3-B05B87694909}",
+=======
+    "Hash": "{9789E31C-BC6B-F220-DF53-85122A3A2544}",
+>>>>>>> Stashed changes
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
     "Plugins": {
+<<<<<<< Updated upstream
      "Custom": [
       {
        "Id": "39489390",
@@ -25,6 +30,8 @@
        "LibId": "6881283"
       }
      ],
+=======
+>>>>>>> Stashed changes
      "AudioDevices": [
       {
        "Id": "2317455096",
@@ -54,6 +61,7 @@
     },
     "Busses": [
      {
+<<<<<<< Updated upstream
       "Id": "2246998526",
       "Name": "Main Audio Bus",
       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus",
@@ -64,10 +72,23 @@
       "Name": "Passthrough",
       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\Passthrough",
       "GUID": "{D626B1B6-EA41-47A2-BAE6-D6135B91D951}"
+=======
+      "Id": "393239870",
+      "Name": "SFX",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Master_Bus\\SFX",
+      "GUID": "{D948A898-7581-4A77-8A62-EAE482E55D76}"
+     },
+     {
+      "Id": "3677413232",
+      "Name": "Master_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Master_Bus",
+      "GUID": "{53B0EA47-03CF-47E5-AC6D-48F73B0F8C70}"
+>>>>>>> Stashed changes
      },
      {
       "Id": "3991942870",
       "Name": "Music",
+<<<<<<< Updated upstream
       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\Passthrough\\Music",
       "GUID": "{8BCC3DD3-B793-421F-A763-D70A695F3DAA}",
       "PluginRefs": {
@@ -77,6 +98,16 @@
         }
        ]
       }
+=======
+      "ObjectPath": "\\Busses\\Default Work Unit\\Master_Bus\\Music",
+      "GUID": "{B5C7E713-41B1-4950-8C90-619852906094}"
+     },
+     {
+      "Id": "4082164088",
+      "Name": "No_Use",
+      "ObjectPath": "\\Busses\\Default Work Unit\\No_Use",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+>>>>>>> Stashed changes
      }
     ],
     "GameParameters": [
@@ -706,6 +737,10 @@
     ]
    }
   ],
+<<<<<<< Updated upstream
   "FileHash": "{28EA0474-0214-D6E0-E368-3A5F75660BD3}"
+=======
+  "FileHash": "{955F6346-E1EE-8EE6-2308-9216CCBF4162}"
+>>>>>>> Stashed changes
  }
 }

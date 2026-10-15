@@ -10,7 +10,11 @@
     "Type": "User",
     "GUID": "{EFAB609C-625A-4BC3-AB8B-B69A5F6F33D2}",
     "Language": "SFX",
+<<<<<<< Updated upstream
     "Hash": "{0A49C533-F0D0-5880-C80E-305D740C3E2E}",
+=======
+    "Hash": "{4F2A8514-9624-262F-3BBA-EB991EB7EC58}",
+>>>>>>> Stashed changes
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
     "ShortName": "Music",
     "Path": "Music.bnk",
@@ -322,6 +326,10 @@
     ]
    }
   ],
+<<<<<<< Updated upstream
   "FileHash": "{7DEC8EE6-A048-37D5-51B9-27DC60CF6EC2}"
+=======
+  "FileHash": "{E8D3523F-F6FE-2EAE-8078-4288A7CF8985}"
+>>>>>>> Stashed changes
  }
 }

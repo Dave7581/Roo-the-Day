@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="16" SoundBankVersion="172">
 	<SoundBanks>
+<<<<<<< Updated upstream
 		<SoundBank Id="3991942870" Type="User" GUID="{EFAB609C-625A-4BC3-AB8B-B69A5F6F33D2}" Language="SFX" Hash="{0A49C533-F0D0-5880-C80E-305D740C3E2E}">
+=======
+		<SoundBank Id="3991942870" Type="User" GUID="{EFAB609C-625A-4BC3-AB8B-B69A5F6F33D2}" Language="SFX" Hash="{4F2A8514-9624-262F-3BBA-EB991EB7EC58}">
+>>>>>>> Stashed changes
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
@@ -134,5 +138,9 @@
 			</StateGroups>
 		</SoundBank>
 	</SoundBanks>
+<<<<<<< Updated upstream
 	<FileHash>{26BB80E2-C0E0-C87A-3768-B740B52A9A9C}</FileHash>
+=======
+	<FileHash>{3DBB4740-346D-93BB-C918-98DCAC3FBA46}</FileHash>
+>>>>>>> Stashed changes
 </SoundBanksInfo>

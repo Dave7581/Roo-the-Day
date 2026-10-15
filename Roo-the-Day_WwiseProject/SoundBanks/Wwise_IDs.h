@@ -80,9 +80,16 @@ namespace AK
 
     namespace BUSSES
     {
+<<<<<<< Updated upstream
         static const AkUniqueID MAIN_AUDIO_BUS = 2246998526U;
         static const AkUniqueID MUSIC = 3991942870U;
         static const AkUniqueID PASSTHROUGH = 2804736953U;
+=======
+        static const AkUniqueID MASTER_BUS = 3677413232U;
+        static const AkUniqueID MUSIC = 3991942870U;
+        static const AkUniqueID NO_USE = 4082164088U;
+        static const AkUniqueID SFX = 393239870U;
+>>>>>>> Stashed changes
     } // namespace BUSSES
 
     namespace AUDIO_DEVICES

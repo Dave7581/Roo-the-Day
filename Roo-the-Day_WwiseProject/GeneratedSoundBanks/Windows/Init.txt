@@ -15,12 +15,19 @@ State	ID	Name	State Group			Notes
 	1560169506	Boss	Music_State			
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
+<<<<<<< Updated upstream
 	2246998526	Main Audio Bus			\Default Work Unit\Main Audio Bus	
 	2804736953	Passthrough			\Default Work Unit\Main Audio Bus\Passthrough	
 	3991942870	Music			\Default Work Unit\Main Audio Bus\Passthrough\Music	
 
 Effect plug-ins	ID	Name	Type				Notes
 	39489390	Parametric EQ (Custom)	Wwise Parametric EQ			
+=======
+	393239870	SFX			\Default Work Unit\Master_Bus\SFX	
+	3677413232	Master_Bus			\Default Work Unit\Master_Bus	
+	3991942870	Music			\Default Work Unit\Master_Bus\Music	
+	4082164088	No_Use			\Default Work Unit\No_Use	
+>>>>>>> Stashed changes
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			

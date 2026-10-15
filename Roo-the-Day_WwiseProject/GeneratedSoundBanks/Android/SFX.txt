@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2143838950	Footsteps_SFX			\SFX\Footsteps_SFX	
+	3594558967	Obj_Pickup_SFX			\SFX\Obj_Pickup_SFX	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2143838950	FootSteps_SFX			\Default Work Unit\FootSteps_SFX	
+
+Switch	ID	Name	Switch Group			Notes
+	1216965916	Stone	FootSteps_SFX			
+	2058049674	Wood	FootSteps_SFX			
+

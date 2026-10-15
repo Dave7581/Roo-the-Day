@@ -1,0 +1,63 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "393239870",
+    "Type": "User",
+    "GUID": "{4921EAAD-CA4C-4412-94C7-61065520BE68}",
+    "Language": "SFX",
+    "Hash": "{09F48E59-B611-F8F5-ADF2-8FB9907D9EDB}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX",
+    "ShortName": "SFX",
+    "Path": "SFX.bnk",
+    "Events": [
+     {
+      "Id": "2143838950",
+      "Name": "Footsteps_SFX",
+      "ObjectPath": "\\Events\\SFX\\Footsteps_SFX",
+      "GUID": "{0E9269E9-1AF2-4E32-AC7B-C0DE11CE5D6A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "3594558967",
+      "Name": "Obj_Pickup_SFX",
+      "ObjectPath": "\\Events\\SFX\\Obj_Pickup_SFX",
+      "GUID": "{C5DDFD46-2809-4BD2-B69F-40C44EEF8CB0}",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "2143838950",
+      "Name": "FootSteps_SFX",
+      "ObjectPath": "\\Switches\\Default Work Unit\\FootSteps_SFX",
+      "GUID": "{146648BC-0D8B-4B75-9E85-F713E7699042}",
+      "Switches": [
+       {
+        "Id": "1216965916",
+        "Name": "Stone",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootSteps_SFX\\Stone",
+        "GUID": "{F369076E-BC51-4C0C-9A51-85E05EEB6637}"
+       },
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootSteps_SFX\\Wood",
+        "GUID": "{79BD1526-F00A-445C-AA21-762A1DD240E6}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DE1FCBC6-661D-36E0-FD33-A750676741D7}"
+ }
+}

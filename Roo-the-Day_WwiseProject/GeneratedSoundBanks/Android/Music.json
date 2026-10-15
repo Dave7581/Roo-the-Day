@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{EFAB609C-625A-4BC3-AB8B-B69A5F6F33D2}",
     "Language": "SFX",
-    "Hash": "{76CECD05-6B12-16FE-7B7B-DD99C87EF66C}",
+    "Hash": "{834B70F6-94B1-0B51-3F6C-B570D7CF71FF}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
     "ShortName": "Music",
     "Path": "Music.bnk",
@@ -1126,6 +1126,6 @@
     ]
    }
   ],
-  "FileHash": "{00F43D13-BE94-0ABC-4930-8DA56DC055DC}"
+  "FileHash": "{61F54A56-354B-995B-8C95-2D849DEC959B}"
  }
 }

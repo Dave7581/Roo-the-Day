@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="16" SoundBankVersion="172">
 	<SoundBanks>
-		<SoundBank Id="3991942870" Type="User" GUID="{EFAB609C-625A-4BC3-AB8B-B69A5F6F33D2}" Language="SFX" Hash="{76CECD05-6B12-16FE-7B7B-DD99C87EF66C}">
+		<SoundBank Id="3991942870" Type="User" GUID="{EFAB609C-625A-4BC3-AB8B-B69A5F6F33D2}" Language="SFX" Hash="{834B70F6-94B1-0B51-3F6C-B570D7CF71FF}">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
@@ -497,5 +497,5 @@
 			</StateGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{E2C5839A-7F41-4DDA-A0E0-EBE84012EB8D}</FileHash>
+	<FileHash>{34F0ABE3-FE3F-C0BA-B741-171E306DB948}</FileHash>
 </SoundBanksInfo>
